@@ -1,0 +1,2 @@
+# mytasks
+A django project  
